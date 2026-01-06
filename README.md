@@ -1,7 +1,7 @@
 # 📝 MERN Todos App
 
 A full-stack **Todo application** built using the **MERN stack**.  
-This project was developed as my **final project at CTD** and demonstrates authentication, profile management, and complete CRUD operations for todos.
+This project was developed as my **judix assignment ** and demonstrates authentication, profile management, and complete CRUD operations for todos.
 
 ---
 ## 🌐 Live Demo
@@ -13,14 +13,14 @@ This project was developed as my **final project at CTD** and demonstrates authe
 ## 📸 Screenshots
 
 ### 🔐 TO DO lists
-**Signup Page**
-![Signup Page](./images/todo.png)
+
+![Signup Page](./image/todo.png)
 
 **Pending lists**
-![Login Page](./images/pen.png)
+![Login Page](./image/pen.png)
 
 **View AND Edit Profile**
-![Login Page](./images/prof.png)
+![Login Page](./image/prof.png)
 ## 🚀 Tech Stack
 
 ### Frontend
