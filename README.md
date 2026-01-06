@@ -4,7 +4,23 @@ A full-stack **Todo application** built using the **MERN stack**.
 This project was developed as my **final project at CTD** and demonstrates authentication, profile management, and complete CRUD operations for todos.
 
 ---
+## 🌐 Live Demo
 
+🔗 **Deployed Application:**  
+👉 https://judix-assignment.onrender.com
+
+
+## 📸 Screenshots
+
+### 🔐 TO DO lists
+**Signup Page**
+![Signup Page](./images/signup.png)
+
+**Pending lists**
+![Login Page](./images/login.png)
+
+**View AND Edit Profile**
+![Login Page](./images/login.png)
 ## 🚀 Tech Stack
 
 ### Frontend
