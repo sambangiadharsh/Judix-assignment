@@ -7,7 +7,7 @@ const userRouter = require("./route/userRoute.js");
 
 const app = express();
 app.use(express.json());
-app.use(cors({ origin: [process.env.CLIENT_URL], credentials: true }));
+app.use(cors({ origin: [process.env.CLIENT_URL,"https://judix-assignment.onrender.com"], credentials: true }));
 app.use(cookieParser());
 
 app.use("/", userRouter);
