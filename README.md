@@ -14,13 +14,13 @@ This project was developed as my **final project at CTD** and demonstrates authe
 
 ### 🔐 TO DO lists
 **Signup Page**
-![Signup Page](./images/signup.png)
+![Signup Page](./images/todo.png)
 
 **Pending lists**
-![Login Page](./images/login.png)
+![Login Page](./images/pen.png)
 
 **View AND Edit Profile**
-![Login Page](./images/login.png)
+![Login Page](./images/prof.png)
 ## 🚀 Tech Stack
 
 ### Frontend
